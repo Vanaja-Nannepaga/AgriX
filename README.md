@@ -10,8 +10,8 @@ This repo implements the final approach:
 ## Quickstart
 
 Run Commands:
-pip install fastapi uvicorn pandas joblib 
-pip install python-multipart
+- pip install fastapi uvicorn pandas joblib 
+- pip install python-multipart
 
 ```bash
 python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\activate
