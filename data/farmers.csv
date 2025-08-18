@@ -1,0 +1,51 @@
+farmer_id,crop,location_district,location_state,min_expected_price,quantity
+1,sugarcane,D2,West Bengal,200,83
+2,chana,D3,Karnataka,5054,43
+3,maize,D4,West Bengal,1899,106
+4,tur,D5,Madhya Pradesh,6877,82
+5,mustard,D6,Rajasthan,5609,24
+6,chana,D7,Rajasthan,5303,102
+7,maize,D8,Maharashtra,1894,113
+8,tur,D9,Gujarat,7032,109
+9,sugarcane,D10,Andhra Pradesh,478,72
+10,soybean,D11,Uttar Pradesh,4134,26
+11,soybean,D12,Tamil Nadu,4218,31
+12,mustard,D13,Rajasthan,5675,112
+13,maize,D14,Telangana,1823,70
+14,mustard,D15,Andhra Pradesh,5464,29
+15,groundnut,D16,Tamil Nadu,5963,107
+16,tur,D17,Gujarat,7140,80
+17,mustard,D18,Telangana,5625,72
+18,mustard,D19,Karnataka,5468,51
+19,mustard,D20,Karnataka,5744,55
+20,mustard,D1,Karnataka,5513,36
+21,rice,D2,Odisha,2364,14
+22,cotton,D3,Punjab,6640,106
+23,soybean,D4,Haryana,4220,61
+24,sugarcane,D5,West Bengal,418,70
+25,cotton,D6,West Bengal,6493,45
+26,cotton,D7,Odisha,6484,92
+27,cotton,D8,Uttar Pradesh,6366,12
+28,wheat,D9,Rajasthan,2266,50
+29,soybean,D10,Rajasthan,4291,13
+30,soybean,D11,Tamil Nadu,4322,23
+31,cotton,D12,Telangana,6474,116
+32,soybean,D13,West Bengal,4082,82
+33,sugarcane,D14,Rajasthan,408,57
+34,maize,D15,Telangana,1773,67
+35,wheat,D16,Madhya Pradesh,2180,106
+36,soybean,D17,Rajasthan,4254,47
+37,cotton,D18,Tamil Nadu,6367,74
+38,wheat,D19,Rajasthan,2133,85
+39,chana,D20,Bihar,5309,49
+40,maize,D1,Maharashtra,2021,67
+41,maize,D2,Andhra Pradesh,1909,94
+42,sugarcane,D3,Tamil Nadu,426,110
+43,chana,D4,Punjab,5349,26
+44,groundnut,D5,Punjab,5973,112
+45,groundnut,D6,Rajasthan,5942,10
+46,groundnut,D7,Maharashtra,6022,92
+47,sugarcane,D8,Odisha,412,99
+48,maize,D9,Uttar Pradesh,1943,25
+49,maize,D10,Andhra Pradesh,2004,56
+50,chana,D11,Punjab,5304,99

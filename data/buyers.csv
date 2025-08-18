@@ -1,0 +1,51 @@
+buyer_id,crop_preference,max_price,trust_score,location_state
+1,wheat,2435,0.66,Odisha
+2,wheat,1957,0.833,Punjab
+3,tur,7226,0.762,Bihar
+4,wheat,2206,0.238,Karnataka
+5,mustard,5446,0.381,Gujarat
+6,soybean,4049,0.188,Tamil Nadu
+7,groundnut,5947,0.996,Gujarat
+8,sugarcane,263,0.602,Bihar
+9,sugarcane,583,0.285,West Bengal
+10,sugarcane,260,1.0,West Bengal
+11,soybean,4059,1.0,Punjab
+12,cotton,6472,0.541,Tamil Nadu
+13,wheat,2425,0.941,Karnataka
+14,chana,5210,0.78,Rajasthan
+15,maize,1938,0.448,Andhra Pradesh
+16,sugarcane,380,0.922,Karnataka
+17,wheat,2137,0.969,Gujarat
+18,sugarcane,295,0.072,Uttar Pradesh
+19,tur,6874,0.545,Rajasthan
+20,wheat,2164,0.998,Maharashtra
+21,tur,7122,0.846,Tamil Nadu
+22,rice,2175,0.71,Odisha
+23,chana,5105,0.661,Punjab
+24,soybean,4308,1.0,Madhya Pradesh
+25,rice,2199,0.418,Madhya Pradesh
+26,soybean,4116,0.213,Punjab
+27,mustard,5434,0.224,Haryana
+28,sugarcane,200,0.961,Bihar
+29,soybean,4357,0.118,Gujarat
+30,mustard,5770,0.634,Gujarat
+31,cotton,6704,0.624,Karnataka
+32,tur,6989,0.692,Uttar Pradesh
+33,rice,2237,1.0,West Bengal
+34,sugarcane,243,0.489,Karnataka
+35,groundnut,5867,0.667,Karnataka
+36,maize,1964,0.193,West Bengal
+37,cotton,6617,0.432,Punjab
+38,wheat,1980,0.802,Andhra Pradesh
+39,tur,7099,0.766,Rajasthan
+40,chana,5357,0.119,Telangana
+41,soybean,4409,0.842,Karnataka
+42,rice,2506,0.922,Haryana
+43,cotton,6694,0.961,Telangana
+44,groundnut,6011,0.049,Uttar Pradesh
+45,soybean,4035,0.021,Karnataka
+46,wheat,1965,0.265,Odisha
+47,sugarcane,443,0.197,Gujarat
+48,cotton,6374,0.595,Bihar
+49,mustard,5471,0.62,Gujarat
+50,groundnut,5769,0.174,Haryana
