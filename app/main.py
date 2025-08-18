@@ -10,7 +10,7 @@ from pathlib import Path
 import subprocess, sys
 import shutil
 
-app = FastAPI(title="AgriXchange – Fair AI Matching Agent", version="0.1.0")
+app = FastAPI(title="AgriXchange: Multi Agent AI-Powered Farmer–Buyer Negotiation Platform", version="0.1.0")
 
 
 @app.post("/upload", response_model=SeedResponse)
